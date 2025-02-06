@@ -47,7 +47,7 @@ A passionate Data Analyst with experience in transforming data into actionable i
 
 
   <div align="left">
-  <a href="https://www.linkedin.com/in/lavanya-rai-8b6109249/" target="_blank">
+  <a href="https://www.linkedin.com/in/tejasv-gupta-552240142/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
   <a href="https://leetcode.com/u/lavanyarai09/" target="_blank">
