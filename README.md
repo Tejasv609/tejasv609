@@ -53,7 +53,7 @@ A passionate Data Analyst with experience in transforming data into actionable i
   <a href="https://leetcode.com/u/tejasv002/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LeetCode logo" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/lavanyarai2021/" target="_blank">
+  <a href="https://www.geeksforgeeks.org/user/tejasj48a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GeeksforGeeks&logo=geeksforgeeks&label=&color=0F9D58&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GeeksforGeeks logo" />
   </a>
   <a href="https://drive.google.com/file/d/1RrUi_ruRbPop4YGd8UZXUN9z4N-bXQ-K/view?usp=sharing" target="_blank">
