@@ -65,6 +65,7 @@ A passionate Data Analyst with experience in transforming data into actionable i
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Tejasv609/Tejasv609/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Tejasv609/Tejasv609/output/github-snake-dark.svg" alt="Snake animation" />
+
 
 ###
