@@ -47,7 +47,7 @@ A passionate Data Analyst with experience in transforming data into actionable i
 
 
   <div align="left">
-  <a href="https://www.linkedin.com/in/tejasv-gupta-552240142/" target="_blank">
+  <a href="https://www.linkedin.com/in/tejasv-gupta/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
   <a href="https://leetcode.com/u/tejasv002/" target="_blank">
@@ -56,7 +56,7 @@ A passionate Data Analyst with experience in transforming data into actionable i
   <a href="https://www.geeksforgeeks.org/user/tejasj48a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GeeksforGeeks&logo=geeksforgeeks&label=&color=0F9D58&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GeeksforGeeks logo" />
   </a>
-  <a href="https://drive.google.com/file/d/1RrUi_ruRbPop4YGd8UZXUN9z4N-bXQ-K/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1LrOIugYFEzXnHn6ft6Kvt63uKuEm4B7x/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Resume&logo=googledrive&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Resume link" />
   </a>
 
