@@ -59,7 +59,7 @@ engineering teams. Enthusiastic about working with distributed systems, AI, and 
   <a href="https://www.geeksforgeeks.org/user/tejasj48a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GeeksforGeeks&logo=geeksforgeeks&label=&color=0F9D58&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GeeksforGeeks logo" />
   </a>
-  <a href="https://drive.google.com/file/d/1LrOIugYFEzXnHn6ft6Kvt63uKuEm4B7x/view?usp=drive_link" target="_blank">
+  <a href="[https://drive.google.com/file/d/1LrOIugYFEzXnHn6ft6Kvt63uKuEm4B7x/view?usp=drive_link](https://drive.google.com/file/d/1RwgulixlliqHaoTJC5rxVinkCcKo6dUo/view?usp=sharing)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Resume&logo=googledrive&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Resume link" />
   </a>
 
