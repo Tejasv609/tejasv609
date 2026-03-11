@@ -1,5 +1,8 @@
 <h1>Nice to meet you!! 👋, I'm Tejasv Gupta</h1>
-A passionate Data Analyst with experience in transforming data into actionable insights. I specialize in Microsoft Power BI, SQL, and Excel, and excel in creating impactful dashboards and data models. My strong analytical and problem-solving skills, coupled with a continuous drive to learn, allow me to deliver high-quality data solutions. I'm eager to contribute to innovative projects and help organizations harness the power of data.
+Software Developer specializing in Artificial Intelligence with strong programming skills in Python, AI application
+and SQL. Hands-on experience in backend development, automation testing, and scalable systems, with exposure to
+AWS cloud services. Proven ability to optimize workflows, design reliable backend solutions, and collaborate across
+engineering teams. Enthusiastic about working with distributed systems, AI, and modern backend stacks.
 
 <div align="center">
   
