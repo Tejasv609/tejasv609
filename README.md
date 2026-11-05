@@ -19,7 +19,3 @@ I build LLM systems that work end to end — retrieval, agents, and fine-tuning 
 
 Python · PyTorch · Transformers / PEFT · FastAPI · PostgreSQL · Docker · AWS · LangGraph-style agents · RAG & evals
 
----
-
-![Tejasv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tejasv609&show_icons=true&hide_border=true&theme=transparent)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=Tejasv609&layout=compact&hide_border=true&theme=transparent)
